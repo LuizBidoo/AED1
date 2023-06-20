@@ -16,7 +16,7 @@ int main() {
 
     somaAB(ptrA, ptrB);
 
-    printf("Valor de A: %d\n", a);
+    printf("Valor de A: %d\n", *ptrA);
 
     return 0;
 }
